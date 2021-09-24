@@ -1,1 +1,1 @@
-# Slack---Line
+# SlackとLineを連携してどっちでも見れるようにするもの
