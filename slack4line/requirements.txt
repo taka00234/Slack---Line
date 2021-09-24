@@ -1,0 +1,5 @@
+line-bot-sdk
+slackbot
+requests
+python-dotenv
+slacker
